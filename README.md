@@ -10,8 +10,8 @@ A list of errands and other tasks – often written on a piece of paper as a mem
 * Glyphicon
 * Roboto
 
-#JS Library
+# JS Library
 * jQuery - For animating the to-do list.
 
-#CSS Framework
+# CSS Framework
 * Bootstrap G;yphicons 
