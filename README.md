@@ -14,4 +14,4 @@ A list of errands and other tasks – often written on a piece of paper as a mem
 * jQuery - For animating the to-do list.
 
 # CSS Framework
-* Bootstrap G;yphicons 
+* Bootstrap Glyphicons 
